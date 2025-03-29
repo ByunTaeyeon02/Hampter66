@@ -1,0 +1,6642 @@
+## Footprint report - date 2024-12-17T17:52:56-0800
+## Created by KiCad version 8.0.0
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 115.388603 151.094000
+lower_right_corner 482.292794 270.349121
+$EndBOARD
+
+$MODULE C4
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 184.454800 171.653200  orientation 45.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C4
+
+$MODULE C5
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 165.963600 170.738800  orientation -45.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C5
+
+$MODULE C6
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 164.795200 162.814000  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C6
+
+$MODULE C7
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 181.102000 160.250500  orientation -45.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C7
+
+$MODULE C8
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 194.671501 159.027500  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C8
+
+$MODULE C9
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 188.044001 159.027500  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C9
+
+$MODULE C10
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 167.845100 163.525200  orientation 180.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  C10
+
+$MODULE D1
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 215.528320 186.414500  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE D2
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 234.578320 186.414500  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D2
+
+$MODULE D3
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 254.000000 186.056000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D3
+
+$MODULE D4
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 272.669000 186.056000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D4
+
+$MODULE D5
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 291.719000 186.055000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D5
+
+$MODULE D6
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 310.769000 186.055000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D6
+
+$MODULE D7
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 329.819000 186.056000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D7
+
+$MODULE D8
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 348.869000 186.055000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D8
+
+$MODULE D9
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 367.919000 186.055000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D9
+
+$MODULE D10
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 386.969000 186.055000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D10
+
+$MODULE D11
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 406.146000 186.055000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D11
+
+$MODULE D12
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 425.069000 186.055000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D12
+
+$MODULE D13
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 444.119000 186.055000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D13
+
+$MODULE D14
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 225.044000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D14
+
+$MODULE D15
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 244.094000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D15
+
+$MODULE D16
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 263.144000 205.231000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D16
+
+$MODULE D17
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 282.194000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D17
+
+$MODULE D18
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 301.244000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D18
+
+$MODULE D19
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 320.294000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D19
+
+$MODULE D20
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 339.344000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D20
+
+$MODULE D21
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 358.394000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D21
+
+$MODULE D22
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 377.444000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D22
+
+$MODULE D23
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 396.494000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D23
+
+$MODULE D24
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 415.544000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D24
+
+$MODULE D25
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 434.594000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D25
+
+$MODULE D26
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 453.517000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D26
+
+$MODULE D27
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 458.470000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D27
+
+$MODULE D28
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 453.644000 186.055000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D28
+
+$MODULE D29
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 222.631000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D29
+
+$MODULE D30
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 248.793000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D30
+
+$MODULE D31
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 267.970000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D31
+
+$MODULE D32
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 286.893000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D32
+
+$MODULE D33
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 306.070000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D33
+
+$MODULE D34
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 324.993000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D34
+
+$MODULE D35
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 344.043000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D35
+
+$MODULE D36
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 363.220000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D36
+
+$MODULE D37
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 382.143000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D37
+
+$MODULE D38
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 401.193000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D38
+
+$MODULE D39
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 420.243000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D39
+
+$MODULE D40
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 439.293000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D40
+
+$MODULE D41
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 451.231000 224.282000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D41
+
+$MODULE D42
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 227.330000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D42
+
+$MODULE D43
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 258.318000 243.458000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D43
+
+$MODULE D44
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 277.368000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D44
+
+$MODULE D45
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 296.418000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D45
+
+$MODULE D46
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 315.468000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D46
+
+$MODULE D47
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 334.518000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D47
+
+$MODULE D48
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 353.441000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D48
+
+$MODULE D49
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 372.618000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D49
+
+$MODULE D50
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 391.922000 243.458000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D50
+
+$MODULE D51
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 410.718000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D51
+
+$MODULE D52
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 417.957000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D52
+
+$MODULE D53
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 443.992000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D53
+
+$MODULE D54
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 463.169000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D54
+
+$MODULE D55
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 217.805000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D55
+
+$MODULE D56
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 241.681000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D56
+
+$MODULE D57
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 265.430000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D57
+
+$MODULE D58
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 279.781000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D58
+
+$MODULE D59
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 341.757000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D59
+
+$MODULE D60
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 375.031000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D60
+
+$MODULE D61
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 386.969000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D61
+
+$MODULE D62
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 406.019000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D62
+
+$MODULE D63
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 425.069000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D63
+
+$MODULE D64
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 444.119000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D64
+
+$MODULE D65
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 463.169000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D65
+
+$MODULE D66
+footprint Package_TO_SOT_SMD:SOT-143
+attribut smd
+position 142.189200 163.525200  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.000000  0.750000  size  0.700000  1.000000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position -1.000000 -0.950000  size  0.700000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Roundrect Layer back
+position  1.000000 -0.950000  size  0.700000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Roundrect Layer back
+position  1.000000  0.950000  size  0.700000  0.600000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D66
+
+$MODULE D67
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 303.530000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D67
+
+$MODULE D68
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 318.008000 262.382000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D68
+
+$MODULE D78
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 134.493000 186.308000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D78
+
+$MODULE D80
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 153.543000 186.309000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D80
+
+$MODULE D81
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 172.593000 186.309000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D81
+
+$MODULE D83
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 191.643000 186.309000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D83
+
+$MODULE D86
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 215.569800 173.404800  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D86
+
+$MODULE D87
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 239.318800 173.404800  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D87
+
+$MODULE D88
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 258.368800 173.404800  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D88
+
+$MODULE D89
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 277.418800 173.404800  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D89
+
+$MODULE D90
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 296.468800 173.403800  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D90
+
+$MODULE D91
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 463.169000 167.259000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D91
+
+$MODULE D92
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 320.344800 173.403800  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D92
+
+$MODULE D93
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 339.394800 173.403800  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D93
+
+$MODULE D94
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 358.457209 167.256187  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D94
+
+$MODULE D95
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 377.444000 167.259000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D95
+
+$MODULE D96
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 401.320000 167.259000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D96
+
+$MODULE D97
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 420.370000 167.259000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D97
+
+$MODULE D98
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 439.420000 167.259000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D98
+
+$MODULE D99
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 458.470000 167.259000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D99
+
+$MODULE D101
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 134.493000 205.231000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D101
+
+$MODULE D102
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 122.047000 175.006000  orientation 180.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D102
+
+$MODULE D103
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 127.762000 175.006000  orientation 0.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D103
+
+$MODULE D104
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 153.543000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D104
+
+$MODULE D105
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 171.196000 205.232000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D105
+
+$MODULE D106
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 173.990000 208.534000  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D106
+
+$MODULE D107
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 134.493000 229.743000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D107
+
+$MODULE D108
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 153.543000 229.743000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D108
+
+$MODULE D109
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 172.720000 229.743000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D109
+
+$MODULE D110
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 134.493000 243.458000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D110
+
+$MODULE D111
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 153.543000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D111
+
+$MODULE D112
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 172.593000 243.459000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D112
+
+$MODULE D113
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 191.643000 245.618000  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D113
+
+$MODULE D114
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 144.034910 261.359410  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D114
+
+$MODULE D115
+footprint Diode_SMD:D_SOD-123
+attribut smd
+position 153.543000 261.365000  orientation 90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.650000  0.000000  size  0.900000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D115
+
+$MODULE F1
+footprint Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+attribut smd
+position 151.979300 158.394400  orientation 0.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -1.487500  0.000000  size  1.425000  1.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  1.487500  0.000000  size  1.425000  1.750000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  F1
+
+$MODULE G***
+footprint customFootprint:logo1
+attribut virtual
+position 186.690000 165.608000  orientation 0.00
+layer front
+$EndMODULE  G***
+
+$MODULE J1
+footprint Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12
+attribut smd
+position 140.970000 155.269000  orientation 0.00
+layer back
+$PAD ""
+Shape Circle Layer both
+position -2.890000  2.600000  size  0.650000  0.650000  orientation 0.00
+drill  0.650000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  2.890000  2.600000  size  0.650000  0.650000  orientation 0.00
+drill  0.650000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A1"
+Shape Rect Layer back
+position -3.250000  4.045000  size  0.600000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A4"
+Shape Rect Layer back
+position -2.450001  4.045000  size  0.600000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A5"
+Shape Rect Layer back
+position -1.250000  4.044999  size  0.300000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A6"
+Shape Rect Layer back
+position -0.250000  4.045000  size  0.300000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A7"
+Shape Rect Layer back
+position  0.250000  4.045000  size  0.300000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A8"
+Shape Rect Layer back
+position  1.250000  4.044999  size  0.300000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A9"
+Shape Rect Layer back
+position  2.450001  4.045000  size  0.600000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "A12"
+Shape Rect Layer back
+position  3.250000  4.045000  size  0.600000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B1"
+Shape Rect Layer back
+position  3.250000  4.045000  size  0.600000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B4"
+Shape Rect Layer back
+position  2.450001  4.045000  size  0.600000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B5"
+Shape Rect Layer back
+position  1.750000  4.045000  size  0.300000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B6"
+Shape Rect Layer back
+position  0.750000  4.045000  size  0.300000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B7"
+Shape Rect Layer back
+position -0.750000  4.045000  size  0.300000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B8"
+Shape Rect Layer back
+position -1.750000  4.045000  size  0.300000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B9"
+Shape Rect Layer back
+position -2.450001  4.045000  size  0.600000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B12"
+Shape Rect Layer back
+position -3.250000  4.045000  size  0.600000  1.450000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S1"
+Shape Oval Layer both
+position -4.320000 -1.050000  size  1.000000  1.600000  orientation 0.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S1"
+Shape Oval Layer both
+position -4.320000  3.130000  size  1.000000  2.100000  orientation 0.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S1"
+Shape Oval Layer both
+position  4.320000 -1.050000  size  1.000000  1.600000  orientation 0.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S1"
+Shape Oval Layer both
+position  4.320000  3.130000  size  1.000000  2.100000  orientation 0.00
+drill  0.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE R1
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 146.048100 164.541200  orientation 0.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R1
+
+$MODULE R2
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 132.943600 157.988000  orientation 180.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R2
+
+$MODULE R3
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 147.726400 158.851600  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R3
+
+$MODULE R4
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 146.048100 162.509200  orientation 0.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R4
+
+$MODULE R7
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 145.237200 173.075600  orientation -90.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R7
+
+$MODULE R10
+footprint Resistor_SMD:R_0805_2012Metric
+attribut smd
+position 172.926607 178.190285  orientation -45.00
+layer back
+$PAD "1"
+Shape Roundrect Layer back
+position -0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Roundrect Layer back
+position  0.912500  0.000000  size  1.025000  1.400000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  R10
+
+$MODULE S1
+footprint PCM_marbastlib-mx:STAB_MX_2.25u
+attribut none
+position 365.537749 260.731000  orientation 180.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S1
+
+$MODULE S3
+footprint PCM_marbastlib-mx:STAB_MX_2.25u
+attribut none
+position 460.765788 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S3
+
+$MODULE S4
+footprint PCM_marbastlib-mx:STAB_MX_2.25u
+attribut none
+position 217.836749 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S4
+
+$MODULE S5
+footprint PCM_marbastlib-mx:STAB_MX_2u
+attribut none
+position 182.128527 251.239121  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S5
+
+$MODULE S6
+footprint PCM_marbastlib-mx:STAB_MX_2u
+attribut none
+position 182.118000 213.137749  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S6
+
+$MODULE S7
+footprint PCM_marbastlib-mx:STAB_MX_2u
+attribut none
+position 463.182794 184.530075  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S7
+
+$MODULE S8
+footprint PCM_marbastlib-mx:STAB_MX_2u
+attribut none
+position 134.504372 260.755090  orientation 180.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S8
+
+$MODULE S9
+footprint PCM_marbastlib-mx:STAB_MX_2.25u
+attribut none
+position 289.337749 260.731000  orientation 180.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S9
+
+$MODULE S10
+footprint PCM_marbastlib-mx:STAB_MX_2.75u
+attribut none
+position 294.076337 260.734956  orientation 180.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position -11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906250 -6.985000  size  3.048000  3.048000  orientation 0.00
+drill  3.048000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position 11.906251  8.255000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  S10
+
+$MODULE SW-1_-5
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 124.973603 184.554607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_-5
+
+$MODULE SW-1_-6
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 144.023603 184.554607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_-6
+
+$MODULE SW-1_-7
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 163.073603 184.554607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_-7
+
+$MODULE SW-1_-8
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 182.123603 184.554607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_-8
+
+$MODULE SW-1_0
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 205.994000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_0
+
+$MODULE SW-1_1
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 229.743000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_1
+
+$MODULE SW-1_2
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 248.793000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_2
+
+$MODULE SW-1_3
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 267.843000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_3
+
+$MODULE SW-1_4
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 286.893000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_4
+
+$MODULE SW-1_5
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 310.769000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_5
+
+$MODULE SW-1_6
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 329.819000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_6
+
+$MODULE SW-1_7
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 348.869000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_7
+
+$MODULE SW-1_8
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 367.919000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_8
+
+$MODULE SW-1_9
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 391.795000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_9
+
+$MODULE SW-1_10
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 410.845000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_10
+
+$MODULE SW-1_11
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 429.895000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_11
+
+$MODULE SW-1_12
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 448.945000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_12
+
+$MODULE SW-1_13
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 472.694000 165.481000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW-1_13
+
+$MODULE SW0_-5
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 124.973603 203.604607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_-5
+
+$MODULE SW0_-6
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 144.023603 203.604607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_-6
+
+$MODULE SW0_-7
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 163.073603 203.604607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_-7
+
+$MODULE SW0_-8
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 182.123603 213.129607  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.079999  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.079999  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_-8
+
+$MODULE SW0_0
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 205.994000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_0
+
+$MODULE SW0_1
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 225.044000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_1
+
+$MODULE SW0_2
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 244.094000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_2
+
+$MODULE SW0_3
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 263.144000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_3
+
+$MODULE SW0_4
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 282.194000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_4
+
+$MODULE SW0_5
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 301.244000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_5
+
+$MODULE SW0_6
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 320.294000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_6
+
+$MODULE SW0_7
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 339.344000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_7
+
+$MODULE SW0_8
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 358.394000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_8
+
+$MODULE SW0_9
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 377.444000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_9
+
+$MODULE SW0_10
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 396.494000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_10
+
+$MODULE SW0_11
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 415.544000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_11
+
+$MODULE SW0_12
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 434.594000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_12
+
+$MODULE SW0_13
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 463.169000 184.531000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_13
+
+$MODULE SW0_15
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 124.973603 222.654607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_15
+
+$MODULE SW0_16
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 144.023603 222.654607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_16
+
+$MODULE SW0_17
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 163.073603 222.654607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_17
+
+$MODULE SW0_21
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 124.973603 241.704607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_21
+
+$MODULE SW0_26
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 144.023603 241.704607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_26
+
+$MODULE SW0_28
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 163.073603 241.704607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_28
+
+$MODULE SW0_29
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 182.143277 251.252452  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.079999  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.079999  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_29
+
+$MODULE SW0_30
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 134.498603 260.754607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_30
+
+$MODULE SW0_31
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 163.073603 260.754607  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW0_31
+
+$MODULE SW1_0
+footprint PCM_marbastlib-mx:SW_MX_1.5u
+attribut none
+position 210.744915 203.583900  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_0
+
+$MODULE SW1_1
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 234.569000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_1
+
+$MODULE SW1_2
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 253.619000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_2
+
+$MODULE SW1_3
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 272.669000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_3
+
+$MODULE SW1_4
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 291.719000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_4
+
+$MODULE SW1_5
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 310.769000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_5
+
+$MODULE SW1_6
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 329.819000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_6
+
+$MODULE SW1_7
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 348.869000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_7
+
+$MODULE SW1_8
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 367.919000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_8
+
+$MODULE SW1_9
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 386.969000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_9
+
+$MODULE SW1_10
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 406.019000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_10
+
+$MODULE SW1_11
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 425.069000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_11
+
+$MODULE SW1_12
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 444.119000 203.581000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_12
+
+$MODULE SW1_13
+footprint PCM_marbastlib-mx:SW_MX_1.5u
+attribut none
+position 467.929717 203.579119  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW1_13
+
+$MODULE SW2
+footprint Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+attribut none
+position 117.453000 163.021000  orientation 0.00
+layer front
+$PAD "A"
+Shape Rect Layer both
+position  0.000000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "B"
+Shape Circle Layer both
+position  0.000000  5.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "C"
+Shape Circle Layer both
+position  0.000000  2.500000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Rect Layer both
+position  7.500000 -3.100000  size  3.200000  2.000000  orientation 0.00
+drill  2.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Rect Layer both
+position  7.500000  8.100000  size  3.200000  2.000000  orientation 0.00
+drill  2.800000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S1"
+Shape Circle Layer both
+position 14.500000  5.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "S2"
+Shape Circle Layer both
+position 14.500000  0.000000  size  2.000000  2.000000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2
+
+$MODULE SW2_0
+footprint PCM_marbastlib-mx:SW_MX_1.75u
+attribut none
+position 213.106000 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_0
+
+$MODULE SW2_1
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 239.309538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_1
+
+$MODULE SW2_2
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 258.359538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_2
+
+$MODULE SW2_3
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 277.409538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_3
+
+$MODULE SW2_4
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 296.459538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_4
+
+$MODULE SW2_5
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 315.509538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_5
+
+$MODULE SW2_6
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 334.559538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_6
+
+$MODULE SW2_7
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 353.609538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_7
+
+$MODULE SW2_8
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 372.659538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_8
+
+$MODULE SW2_9
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 391.709538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_9
+
+$MODULE SW2_10
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 410.759538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_10
+
+$MODULE SW2_11
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 429.809538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_11
+
+$MODULE SW2_12
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 460.797538 222.631000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW2_12
+
+$MODULE SW3
+footprint Button_Switch_SMD:SW_SPST_SKQG_WithStem
+attribut smd
+position 139.521000 172.140000  orientation 180.00
+layer back
+$PAD "1"
+Shape Rect Layer back
+position -3.100000  1.850000  size  1.800000  1.100000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer back
+position  3.100000  1.850000  size  1.800000  1.100000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -3.100000 -1.850000  size  1.800000  1.100000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  3.100000 -1.850000  size  1.800000  1.100000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3
+
+$MODULE SW3_0
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 217.805000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_0
+
+$MODULE SW3_1
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 248.793000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_1
+
+$MODULE SW3_2
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 267.843000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_2
+
+$MODULE SW3_3
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 286.893000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_3
+
+$MODULE SW3_4
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 305.943000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_4
+
+$MODULE SW3_5
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 324.993000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_5
+
+$MODULE SW3_6
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 344.043000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_6
+
+$MODULE SW3_7
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 363.093000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_7
+
+$MODULE SW3_8
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 382.143000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_8
+
+$MODULE SW3_9
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 401.193000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_9
+
+$MODULE SW3_10
+footprint PCM_marbastlib-mx:SW_MX_1.75u
+attribut none
+position 427.395948 241.676846  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_10
+
+$MODULE SW3_11
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 453.644000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_11
+
+$MODULE SW3_12
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 472.694000 241.681000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW3_12
+
+$MODULE SW4_0
+footprint PCM_marbastlib-mx:SW_MX_1.25u
+attribut none
+position 208.298924 260.726604  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_0
+
+$MODULE SW4_1
+footprint PCM_marbastlib-mx:SW_MX_1.25u
+attribut none
+position 232.112699 260.723545  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_1
+
+$MODULE SW4_2
+footprint PCM_marbastlib-mx:SW_MX_1.25u
+attribut none
+position 255.923924 260.726604  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_2
+
+$MODULE SW4_3
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 289.306000 260.731000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_3
+
+$MODULE SW4_4
+footprint PCM_marbastlib-mx:SW_MX_1.25u
+attribut none
+position 332.182743 260.734957  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_4
+
+$MODULE SW4_5
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 365.506000 260.731000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_5
+
+$MODULE SW4_6
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 396.494000 260.731000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_6
+
+$MODULE SW4_7
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 415.544000 260.731000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_7
+
+$MODULE SW4_8
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 434.594000 260.731000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_8
+
+$MODULE SW4_9
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 453.644000 260.731000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_9
+
+$MODULE SW4_10
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 472.694000 260.731000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_10
+
+$MODULE SW4_11
+footprint PCM_marbastlib-mx:SW_MX_1u
+attribut none
+position 294.082743 260.734957  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_11
+
+$MODULE SW4_12
+footprint PCM_marbastlib-mx:SW_MX_1.75u
+attribut none
+position 327.438324 260.729822  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position -5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  3.987800  3.987800  orientation 0.00
+drill  3.987800
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  5.080000  0.000000  size  1.750000  1.750000  orientation 0.00
+drill  1.750000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Circle Layer both
+position -3.810000 -2.540000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Circle Layer both
+position  2.540000 -5.080000  size  2.300000  2.300000  orientation 0.00
+drill  1.524000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  SW4_12
+
+$MODULE U3
+footprint Package_QFP:TQFP-44_10x10mm_P0.8mm
+attribut smd
+position 175.260000 168.783000  orientation -45.00
+layer back
+$PAD "1"
+Shape Rect Layer back
+position -5.700000  4.000000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position -5.700000  3.200000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position -5.700000  2.400000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position -5.700000  1.600000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Rect Layer back
+position -5.700000  0.800000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Rect Layer back
+position -5.700000  0.000000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Rect Layer back
+position -5.700000 -0.800000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Rect Layer back
+position -5.700000 -1.600000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Rect Layer back
+position -5.700000 -2.400000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Rect Layer back
+position -5.700000 -3.200000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "11"
+Shape Rect Layer back
+position -5.700000 -4.000000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "12"
+Shape Rect Layer back
+position -4.000000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "13"
+Shape Rect Layer back
+position -3.200000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "14"
+Shape Rect Layer back
+position -2.400000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "15"
+Shape Rect Layer back
+position -1.600000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "16"
+Shape Rect Layer back
+position -0.800000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "17"
+Shape Rect Layer back
+position  0.000000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "18"
+Shape Rect Layer back
+position  0.800000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "19"
+Shape Rect Layer back
+position  1.600000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "20"
+Shape Rect Layer back
+position  2.400000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "21"
+Shape Rect Layer back
+position  3.200000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "22"
+Shape Rect Layer back
+position  4.000000 -5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "23"
+Shape Rect Layer back
+position  5.700000 -4.000000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "24"
+Shape Rect Layer back
+position  5.700000 -3.200000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "25"
+Shape Rect Layer back
+position  5.700000 -2.400000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "26"
+Shape Rect Layer back
+position  5.700000 -1.600000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "27"
+Shape Rect Layer back
+position  5.700000 -0.800000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "28"
+Shape Rect Layer back
+position  5.700000  0.000000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "29"
+Shape Rect Layer back
+position  5.700000  0.800000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "30"
+Shape Rect Layer back
+position  5.700000  1.600000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "31"
+Shape Rect Layer back
+position  5.700000  2.400000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "32"
+Shape Rect Layer back
+position  5.700000  3.200000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "33"
+Shape Rect Layer back
+position  5.700000  4.000000  size  1.500000  0.550000  orientation 360.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "34"
+Shape Rect Layer back
+position  4.000000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "35"
+Shape Rect Layer back
+position  3.200000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "36"
+Shape Rect Layer back
+position  2.400000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "37"
+Shape Rect Layer back
+position  1.600000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "38"
+Shape Rect Layer back
+position  0.800000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "39"
+Shape Rect Layer back
+position  0.000000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "40"
+Shape Rect Layer back
+position -0.800000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "41"
+Shape Rect Layer back
+position -1.600000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "42"
+Shape Rect Layer back
+position -2.400000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "43"
+Shape Rect Layer back
+position -3.200000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "44"
+Shape Rect Layer back
+position -4.000000  5.700000  size  1.500000  0.550000  orientation 270.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  U3
+
+$MODULE Y2
+footprint Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm
+attribut smd
+position 191.369500 159.027500  orientation 180.00
+layer back
+$PAD "1"
+Shape Rect Layer back
+position -1.100000 -0.850000  size  1.400000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Rect Layer back
+position  1.100000 -0.850000  size  1.400000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Rect Layer back
+position  1.100000  0.850000  size  1.400000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Rect Layer back
+position -1.100000  0.850000  size  1.400000  1.200000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  Y2
+
+$EndDESCRIPTION
